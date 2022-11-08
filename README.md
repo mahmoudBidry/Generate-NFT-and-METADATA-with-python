@@ -9,7 +9,7 @@ Generate NFT and METADATA with python
   <li>3 - Run <a href="https://github.com/mahmoudBidry/Generate-NFT-and-METADATA-with-python/blob/master/My_own_script_for_generating_NFT_collection.ipynb">Generate NFT & METADATA program</a> for generating our collection NFT & METADATA</li>
 </ul>
 
-After performing the previous steps, we notice 2 folder was created as level as "NFT parts" folder :
+After performing the previous steps, we notice 2 folder were created as level as "NFT parts" folder :
 <ul>
   <li>The first folder contains our collection</li>
   <li>The second one contains metadata </li>
