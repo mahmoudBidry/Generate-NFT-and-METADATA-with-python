@@ -16,4 +16,4 @@ After performing the previous steps, we notice that 2 folders were created as th
 </ul>
 
 <h2>Example of NFT created </h2>
-<img alt="NFT" src="https://gateway.pinata.cloud/ipfs/QmNqC4o62rqgayEESHUsopa2n5dKGPFpLbtSW6chXwgLiy/11.png" />
+<img alt="NFT" src="https://gateway.pinata.cloud/ipfs/QmNqC4o62rqgayEESHUsopa2n5dKGPFpLbtSW6chXwgLiy/5.png" />
