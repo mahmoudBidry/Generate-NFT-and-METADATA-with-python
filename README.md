@@ -5,11 +5,11 @@ Generate NFT and METADATA with python
 
 <ul>
   <li>1 - donwload project</li>
-  <li>2 - Run <a href="https://github.com/mahmoudBidry/Generate-NFT-and-METADATA-with-python/blob/master/Resize_Collection.ipynb"> Resize Collection program</a> for resizing our collection to one size</li>
-  <li>3 - Run <a href="https://github.com/mahmoudBidry/Generate-NFT-and-METADATA-with-python/blob/master/My_own_script_for_generating_NFT_collection.ipynb">Generate NFT & METADATA program</a> for generating our collection NFT & METADATA</li>
+  <li>2 - Run <a href="https://github.com/mahmoudBidry/Generate-NFT-and-METADATA-with-python/blob/master/Resize_Collection.ipynb"> Resize Collection program</a> to resize our collection to the same size</li>
+  <li>3 - Run <a href="https://github.com/mahmoudBidry/Generate-NFT-and-METADATA-with-python/blob/master/My_own_script_for_generating_NFT_collection.ipynb">Generate NFT & METADATA program</a> to generate our collection NFT & METADATA</li>
 </ul>
 
-After performing the previous steps, we notice 2 folder were created as level as "NFT parts" folder :
+After performing the previous steps, we notice that 2 folder were created as the same level as "NFT parts" folder :
 <ul>
   <li>The first folder contains our collection</li>
   <li>The second one contains metadata </li>
